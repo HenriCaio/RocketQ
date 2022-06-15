@@ -2,6 +2,7 @@
 Projeto realizado em aula da @rocketseat 
 
 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -HTML
